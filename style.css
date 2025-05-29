@@ -1,0 +1,2 @@
+body { background: #222; display: flex; justify-content: center; align-items: center; height: 100vh; }
+.card { width: 300px; height: 200px; background: rgb(217, 65, 231); border-radius: 20px; transition: 0.2s; transform-style: preserve-3d; perspective: 1000px; text-align: center; padding: 40px; }
